@@ -1,10 +1,5 @@
 /*  your css code here. If applicable */
-img{
-	height:18rem;
-}
-
-.card{
-	display:flex;
-	flex-direction:column;
-	justify-content:left;
+.card-body{
+	display:flex !important;
+	direction:row !important;
 }
